@@ -1,0 +1,1 @@
+FormXu is a small jQuery application using which user can build dynamic <form> and can be used to repitatively submit the form with different automated form field contents. The results after form submission is shown in <iframe>
